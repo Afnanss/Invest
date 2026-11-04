@@ -22,3 +22,4 @@ body.ar .hero .inner{text-align:right}body.ar .hero-grid{direction:rtl}body:not(
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.wallet{transform:none}}
 @media(max-width:760px){.nav-right>a span{display:inline}.nav-right>a{max-width:120px;white-space:nowrap}}
 .hero-actions .cta>span[aria-hidden],.wallet-card>span[aria-hidden]{font-family:Arial,sans-serif}
+@media(max-width:760px){.nav-right>a{display:inline-flex;align-items:center}}
